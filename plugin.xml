@@ -21,7 +21,7 @@
     <name>CordovaLocalWebServer</name>
     <description>Cordova Local Web Server Plugin</description>
     <keywords>cordova,local web server</keywords>
-    <repo>https://github.com/HummingbirdTechGroup/cordova-plugin-local-webserver</repo>
+    <repo>https://github.com/HummingbirdTechGroup/cordova-plugin-local-webserver.git</repo>
 
     <dependency id="cordova-plugin-file" url="https://github.com/apache/cordova-plugin-file.git" version=">=1.3.4" />
 
