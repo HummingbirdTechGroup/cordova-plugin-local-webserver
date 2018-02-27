@@ -1,16 +1,16 @@
 {
-  "name": "spark-local-webserver",
+  "name": "hummingbird-local-webserver",
   "version": "2.4.2",
   "description": "Cordova Local Web Server Plugin",
   "cordova": {
-    "id": "spark-local-webserver",
+    "id": "hummingbird-local-webserver",
     "platforms": [
       "ios"
     ]
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MadeMediaCorp/cordova-plugins"
+    "url": "git+https://github.com/HummingbirdTechGroup/cordova-plugin-local-webserver"
   },
   "keywords": [
     "cordova",
@@ -27,9 +27,9 @@
   "author": "",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/MadeMediaCorp/cordova-plugins/issues"
+    "url": "https://github.com/HummingbirdTechGroup/cordova-plugin-local-webserver/issues"
   },
-  "homepage": "https://github.com/MadeMediaCorp/cordova-plugins#readme",
+  "homepage": "https://github.com/HummingbirdTechGroup/cordova-plugin-local-webserver#readme",
   "dependencies": {
     "urijs": "^1.17.1"
   }
