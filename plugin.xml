@@ -17,11 +17,11 @@
   specific language governing permissions and limitations
   under the License.
 -->
-<plugin id="spark-local-webserver" version="2.4.2" xmlns="http://apache.org/cordova/ns/plugins/1.0" xmlns:android="http://schemas.android.com/apk/res/android">
+<plugin id="hummingbird-local-webserver" version="2.4.2" xmlns="http://apache.org/cordova/ns/plugins/1.0" xmlns:android="http://schemas.android.com/apk/res/android">
     <name>CordovaLocalWebServer</name>
     <description>Cordova Local Web Server Plugin</description>
     <keywords>cordova,local web server</keywords>
-    <repo>https://github.com/MadeMediaCorp/spark.git#plugin-local-webserver</repo>
+    <repo>https://github.com/HummingbirdTechGroup/cordova-plugin-local-webserver</repo>
 
     <dependency id="cordova-plugin-file" url="https://github.com/apache/cordova-plugin-file.git" version=">=1.3.4" />
 
@@ -41,8 +41,8 @@
 			<access origin="http://localhost" />
             <allow-navigation href="http://localhost:*/*" />
         </config-file>
-		
-        
+
+
 	    <header-file src="src/ios/CDVLocalWebServer.h" />
 	    <source-file src="src/ios/CDVLocalWebServer.m" />
 
